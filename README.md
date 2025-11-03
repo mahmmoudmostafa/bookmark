@@ -1,1 +1,1 @@
-https://github.com/mahmmoudmostafa/bookmark
+https://mahmmoudmostafa.github.io/bookmark/
